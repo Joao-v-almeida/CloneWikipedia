@@ -1,3 +1,6 @@
+html{
+    scroll-behavior: smooth; /*Rolagem suavem*/
+}
 body{
     margin: 0;
 }
